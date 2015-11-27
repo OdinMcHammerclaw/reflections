@@ -6,3 +6,6 @@ You creat a .git file that is hidden, but will begin tracking commits of files a
 
 The working directory & the repository are both finalized locations, the staging area is a good place to see which files you might want to add or drop from the commit before making the commit.
 
+- How can you use the staging area to make sure you have one commit per logical change?
+
+You can view which files are ready to be added to the commit and which files are not. You can also drop any files that are not part of the logical change.
