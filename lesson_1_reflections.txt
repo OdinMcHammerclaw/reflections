@@ -1,0 +1,32 @@
+-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Having a direct comparison on the same screen only showing the content sections with changes in
+instead of the entire code along with symbols indicated what was changed helped a ton. 
+
+-How could having easy access to the entire history of a file make you a more efficient programmer 
+in the long term?
+
+Being able to go back and see your progress as you build a project will show you where your problems
+occur mostly and give you a great point of view on the entire process from start to finish.
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in 
+Git, vs having versions automatically saves, like Google Docs does?
+
+Saving manual commits creats an easier to understand history of events if used correctly. But unlike auto save the user is left holding the back if they aren't careful and forget to save in a timely manner.
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is geared more towards the coding aspect where as Google Docs acts mainly as a standard MS Office clone enviroment.
+
+-How can you use the commands git log and git diff to view the history of files?
+
+You can use 'git log' to bring up the history of commits created during the project. Then you can use 'git diff' to select indivdual commits to compare eachother.
+
+-How might using version control make you more confident to make changes that could break something?
+
+Being able to checkout versions allows you to isolate when and where a bug took place giving you the ability to roll back the project without having to spend hours searcing the code for the problem or rewriting large sections of it.
+
+-Now that you have your workspace set up, what do you want to try using Git for?
+I'm going to be using Git to work with Github & Android Studio while I learn to develop mobile apps/games. 
+
+
