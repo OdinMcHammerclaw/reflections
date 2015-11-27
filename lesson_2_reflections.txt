@@ -9,3 +9,7 @@ The working directory & the repository are both finalized locations, the staging
 - How can you use the staging area to make sure you have one commit per logical change?
 
 You can view which files are ready to be added to the commit and which files are not. You can also drop any files that are not part of the logical change.
+
+- What are some situations when branches would be helpful in keeping your history oganized? How would branches help?
+
+Branches come in handy if you want to test out something completely new or creat a new version of the game for say a different language or difficulty mode.
