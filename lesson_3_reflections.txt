@@ -2,4 +2,6 @@
 
 Anytime you or others need to access the files to colaborate or work remotly you would want to keep your work in a remote repository.
 
+-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+You wont always want to pull down ALL changes made on GitHub. For instance someone might add a file that you think isn't going to work within your project. If it automatically pulled the file would be in your local instance without you wanting it there.
