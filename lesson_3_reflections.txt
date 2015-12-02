@@ -21,3 +21,7 @@ Incase you're going to be somewhere with no internet access to constantly update
 -How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git I would be using Google Drive Docs to record and share all updates/notes to one master document. While it really has no learning curve compared to Gits small curve it still dosen't make it any easier. So ntohing would be easier in doing it my old way.
+
+-When would you want to make changes in a seprate branch rather than directly in master? What benefits does each approach have?
+
+You would want to make changes in a seprate branch if you're looking to test out a new idea or option for your app. 
