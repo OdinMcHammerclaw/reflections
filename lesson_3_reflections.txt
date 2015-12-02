@@ -13,3 +13,7 @@ Forks: A clone of another GitHub users repository, enables you to clone what the
 Clones: A litteral clone of a repository. Can be taken from GitHub or locally. This is generally used on your own inhouse projects.
 
 Branches: A branch will let you break off from the current main trunk so you can work on something different in the code without affecting the master. If your changes are going to be put in use you are able to merge your branch back into the master adding the changes and helping complete the master.
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git I would be using Google Drive Docs to record and share all updates/notes to one master document. While it really has no learning curve compared to Gits small curve it still dosen't make it any easier. So ntohing would be easier in doing it my old way.
